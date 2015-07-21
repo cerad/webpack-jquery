@@ -1,0 +1,25 @@
+{
+  "name": "webpack",
+  "version": "0.0.0",
+  "description": "webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "webpack.git"
+  },
+  "keywords": [
+    "webpack",
+    "jquery"
+  ],
+  "author": "Art H",
+  "license": "MIT",
+  "devDependencies": {
+    "amd-define-factory-patcher-loader": "^1.0.0",
+    "jquery": "^2.1.4",
+    "jquery-ui": "^1.10.5",
+    "sizzle": "^2.2.0"
+  }
+}
